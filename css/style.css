@@ -1,0 +1,19 @@
+.name {
+  background-color: white;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.name a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  padding: 0px 20px 0px 20px;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=style.css.map */
